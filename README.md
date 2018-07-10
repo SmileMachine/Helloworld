@@ -1,2 +1,4 @@
 # Helloworld
-This is for get familiar to  Github.
+//This is for getting familiar to  Github.
+
+And this operation is for making some commit changes.
